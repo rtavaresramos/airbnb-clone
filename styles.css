@@ -23,6 +23,7 @@ body,html{
 .container{
   display: flex;
   align-items: center;
+  justify-content: center;
   margin: 0 auto;
   padding: 30px 0;
   width: 1000px;
@@ -255,6 +256,8 @@ font-size: 16px;
 @media screen and (max-width:980px){
   .container{
     width: 100%;
+
+    padding: 30px 20px 0 0;
   }
 
   .logo{
