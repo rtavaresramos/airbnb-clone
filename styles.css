@@ -344,7 +344,10 @@ ul{
   .between{
     border: none;
   }
-
+  .nav__ul--siginu-up:hover{
+    background: var(--white-color);
+    box-shadow: none;
+  }
   input{
     margin-top: 6px;
     height: 20px;
