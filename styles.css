@@ -159,6 +159,7 @@ button{
   color: var(--white-color);
   padding: 0 24px;
   margin: 4px 0 4px 0;
+  border: none;
   border-radius: 8px;
 }
 button i {
@@ -380,7 +381,7 @@ ul{
   .card--item{
     display: flex;
     flex-direction: column;
-    width: 400px;
+    width: 370px;
     height: 400px;
     border: 1px solid var(--light-grey-color);
     box-shadow: 2px 3px 10px #DDDDDD;
