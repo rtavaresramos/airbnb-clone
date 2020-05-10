@@ -41,12 +41,13 @@ nav{
 }
 
 .logo {
+
   color: var(--primary-color);
   margin-right: 100px;
 }
 
 .logo img{
-  width: 150px;
+  width: 140px;
 }
 
 .toggle{
