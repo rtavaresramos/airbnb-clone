@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700&display=swap');
 
 :root{
-  --primary-color: #FA375C;
+  --primary-color: #37FAA8;
   --black-color: #000;
   --white-color: #fff;
   --light-grey-color: #F7F7F7;
@@ -39,10 +39,14 @@ nav{
   justify-content: space-between;
 }
 
-.logo{
+.logo {
 
   color: var(--primary-color);
   margin-right: 100px;
+}
+
+.logo img{
+  width: 150px;
 }
 
 .toggle{
