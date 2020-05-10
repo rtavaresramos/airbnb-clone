@@ -37,6 +37,7 @@ nav, ul{
 
 nav{
   justify-content: space-between;
+  margin-bottom: 30px;
 }
 
 .logo {
@@ -299,6 +300,7 @@ ul{
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
     width: 90vw;
     height: 50px;
     margin: 0 10px;
